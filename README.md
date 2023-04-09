@@ -1,6 +1,6 @@
 # WMVEC
 Adaptive Weighted Multi-View Evidential Clustering
-## Environment
+# Environment
 MATLAB R2022b
-## Refernce
-Zhe Liu and Haojian Huang, Adaptive Weighted Multi-View Evidential Clustering, ICANN 2023
+# Note
+The complete code will be updated after the acceptance by ICANN
