@@ -1,6 +1,6 @@
-# WMVEC
+## WMVEC
 Adaptive Weighted Multi-View Evidential Clustering
-# Environment
+## Environment
 MATLAB R2022b
-# Note
-The complete code will be updated after the acceptance by ICANN
+## Note
+The complete code will be uploaded after the acceptance by ICANN
