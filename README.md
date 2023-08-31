@@ -2,5 +2,16 @@
 Adaptive Weighted Multi-View Evidential Clustering
 ## Environment
 MATLAB R2022b
-## Note
-The complete source code will be uploaded after the acceptance by ICANN 2023
+
+## :books: Citation
+
+If you find our paper helps you, please kindly consider citing our paper in your publications.
+```bash
+@inproceedings{liu2023adaptive,
+  title={Adaptive Weighted Multi-View Evidential Clustering},
+  author={Liu, Zhe and Huang, Haojian and Letchmunan, Sukumar},
+  booktitle={Int. Conf. Artif. Neural Networks},
+  note={(In press)},
+  year={2023}
+}
+```
