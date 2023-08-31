@@ -1,5 +1,5 @@
 <div align=center>
-<img src="./title.png"/>
+<img src="title.png"/>
 ## Environment
 MATLAB R2022b
 
